@@ -1,22 +1,20 @@
 ---
 layout: default
-post_class: page-template
 ---
 
-<div class="post" itemprop="mainContentOfPage">
+<article class="post">
 
-  <header class="post-header">
-    <h1>{{ page.title }}</h1>
+  <header class="post-header intro">
+    <div class="intro-in">
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <h2 class="intro-subtitle">{{ page.subtitle }}</h2>
+      {% endif %}
+    </div>
   </header>
 
-  {{content}}
+  <div class="post-content container">
+    {{ content }}
+  </div>
 
-</div>
-
-{% if page.slug == "error404" %}
-
-  {% for post in site.posts limit:6 %}
-    {% include article.html %}
-  {% endfor %}
-
-{% endif %}
+</article>
