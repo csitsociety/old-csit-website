@@ -14,6 +14,7 @@ $lightGray: #eee;
 $white: #fff;
 $blue: #4183C4;
 $csit_red: #BF1E2D;
+$light_orange: #FFC966;
 
 
 // Main theme colors
@@ -21,7 +22,7 @@ $csit_red: #BF1E2D;
 
 $mono-color:$csit_red;                // main theme color(header, links, footer icons, buttons, post-title)
 $hl-color: $darkGray;              // header link color (author name and posted on date) for blog post meta
-$navbar-hover-color:$gray;        // navbar hover color (site name and navbar links hover color)
+$navbar-hover-color:$light_orange;        // navbar hover color (site name and navbar links hover color)
 $link-color: $darkerGray;        // normal hyperlink color other than the ones above.
 
 

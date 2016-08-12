@@ -297,3 +297,23 @@ button.button-primary:focus {
 	opacity: 1;
 	pointer-events: auto;
 }
+
+.masthead {
+  border: none;
+}
+
+#join_us {
+  color: white;
+  border-color: white;
+  border-width: 5px;
+  margin-top: 8%;
+  padding: 2em;
+  text-align: center;
+  line-height: 0.1em;
+  font-size: 1.25em;
+}
+
+#join_us:hover {
+  color: #FFA500;
+  border-color: #FFA500;
+}

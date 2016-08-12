@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Contact Us
-permalink: /contact/
+layout: join_us
+title: Join Us
+permalink: /join_us/
 ---
 
 The club communicates to members over Facebook, so if you would like to join please request access to the [facebook group](https://www.facebook.com/groups/rmit.ases/).
