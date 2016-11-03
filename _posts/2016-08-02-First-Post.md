@@ -5,7 +5,7 @@ author: Jonathon Belotti
 ---
 
 This is the first post on RMIT CSIT Society's new website. This blog feed will contain all event news, meeting minutes, and project updates for the club.
-
+<!--excerpt-->
 ## The New RMIT Programming Club
 -----
 
