@@ -10,7 +10,7 @@ Club event announcements are made on [this website]({{ site.baseurl }}) and the 
 
 ## Contact Us
 
-**Email:** [jono@csitsociety.club](mailto:jono@csitsociety.club)
+**Email:** [csit.society@rmit.edu.au](mailto:csit.society@rmit.edu.au)
 
 **Phone:** 0429 835 565
 
