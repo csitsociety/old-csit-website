@@ -5,17 +5,13 @@ author: Michael Swiatkiwsky
 excerpt: <p>My motivation for running Meetup of the week has been to encourage students to join me in pushing beyond the bare minimum required to get a degree, and to explore the myriad of career building opportunities available right at our doorstep.</p>
 
 ---
-
-
-<!--excerpt-->
- 
 ### What is a Meetup? 
 A Meetup is a social event with the purpose bringing together strangers who share a common interest. There are all kinds of Meetups available through [Meetup.com](meetup.com), from rock climbing sessions, to robot building workshops, to even salsa dancing classes. Unbeknownst to most, there are also heaps of free programming, software, and design related Meetups as well, right in the heart of the CBD! This means they’re only a 10-15 minute walk from RMIT.
 
 ### What are they like?
 Most Meetups tend to follow the same general structure. Pizza/beer/networking for the first 10-30 minutes, followed by 60-90 minutes of talks/presentations, and then a little more time for networking and drinks as the event wraps up. This final part is a great opportunity to introduce yourself to the speaker(s) and have a chat about something they presented that you found particularly interesting. Some Meetups will also encourage you to join the speakers at the pub afterwards to continue the conversation over a pint.
 
-Almost all Meetups are complete free to attend, even the ones that provide beer and pizza!
+Almost all Meetups are completely free to attend, even the ones that provide beer and pizza!
 
 ### Why are Meetups useful for students?
 Meetups are a really excellent way to practise your networking skills. The idea of striking up a conversation with a random stranger might seem uncomfortable or even daunting to some, but it seriously gets easier and easier the more you try it. I saw my own interpersonal skills improve significantly just by pushing myself to get out there and talk to new people. The free beer also definitely helps here. 
@@ -38,13 +34,13 @@ Overall I think MotW was a successful endeavor as I met a bunch of different stu
 ### What improvements will I make to Meetup of the Week next year?
 I think one problem that affected attendance was that I would sometimes select the Meetup for the week too late and not provide everyone with enough notice to fit it into their schedules. This often occurred because my own schedule was quite busy, and I would end up procrastinating my selection. But procrastination begone! Next semester I will ensure I provide at least a week’s notice before each Meetup so that you have more time to plan your own week.
 
-Another issue with MotW was that often the posts would get lost beneath the other frequent posts in the CSIT Society Facebook group. To combat this, I will be creating Facebook group events for each MotW so it will be much easier to find the necessary information. This will have the added bonus of allowing you to see who else is going and be able to add to your Facebook calendar by just clicking “interested”. I trialled this for the last MotW of the year and it appeared to be received positively. 
+Another issue with MotW was that often the posts would get lost beneath the other frequent posts in the CSIT Society Facebook group. To combat this, I will be creating Facebook group events for each MotW so it will be much easier to find the necessary information. This will have the added bonus of allowing you to see who else is going and be able to add the event to your Facebook calendar by just clicking “interested”. I trialled this for the last MotW of the year and it appeared to be received positively. 
 
 Finally, running MotW alone can become quite taxing during busy periods of the semester and some weekly selections end up heavily influenced by my own availability. If I’m able to distribute the responsibility and involve other people in the operation of MotW next year, that will have a very positive effect on the variety and diversity of the different Meetups selected each week.
 
 
 
 ### Thanks for reading!
-Meetup of the week has been an excellent experiment that I believe has really paid off. As it resumes next semester, I hope to continue to see familiar faces and also many new ones! 
+Meetup of the Week has been an excellent experiment that I believe has really paid off. As it resumes next semester, I hope to continue to see familiar faces and also many new ones! 
 
 ![Group photo](../images/blog/csitmeetupphoto.jpg)
