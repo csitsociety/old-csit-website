@@ -8,7 +8,9 @@ author: Jonathon Belotti
 
 6:40 - 6:50 -> Reading of executive statements
 
-6:50 - 7:10 -> Electing of roles
+6:50 - 7:40 -> Electing of roles
+
+7:40 - 7:45 -> Ratify club constitution
 
 
 * Going to into classrooms. Target 1st years
