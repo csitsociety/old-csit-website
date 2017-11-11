@@ -2,10 +2,10 @@
 layout: post
 title: Reflecting on Meetup of the Week
 author: Michael Swiatkiwsky
+excerpt: <p>My motivation for running Meetup of the week has been to encourage students to join me in pushing beyond the bare minimum required to get a degree, and to explore the myriad of career building opportunities available right at our doorstep.</p>
+
 ---
 
-
-My motivation for running Meetup of the week has been to encourage students to join me in pushing beyond the bare minimum required to get a degree, and to explore the myriad of career building opportunities available right at our doorstep.
 
 <!--excerpt-->
  
