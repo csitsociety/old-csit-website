@@ -2,11 +2,11 @@
 layout: default
 ---
 
-{% assign sorted_posts = paginator.posts | sort: "date", "first" | sort: "pinned", "last" %}
+<!--{% assign sorted_posts = paginator.posts | sort: "date", "first" | sort: "pinned", "last" %}-->
 
-{%- if site.posts.size > 0 -%}
+{%- if paginator.posts.size > 0 -%}
 <div class="posts">
-    {% for post in sorted_posts %}
+    {% for post in paginator.posts %}
     <article class="post">
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
