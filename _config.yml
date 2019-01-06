@@ -87,3 +87,5 @@ exclude:
 collections:
   meetings:
     output: true
+
+paginate: 5
