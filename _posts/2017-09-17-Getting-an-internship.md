@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting a Software Internship as a Melbourne Student
+date:   2017-09-17
 author: Jonathon Belotti
 ---
 

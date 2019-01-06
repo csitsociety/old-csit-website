@@ -2,6 +2,7 @@
 layout: post
 title: First Post
 author: Jonathon Belotti
+date:   2016-08-02
 ---
 
 This is the first post on RMIT CSIT Society's new website. This blog feed will contain all event news, meeting minutes, and project updates for the club.

@@ -3,6 +3,7 @@ layout: post
 title: "Annual General Meeting: President's Statement"
 author: Jonathon Belotti
 excerpt: <p>Obligatory lookback on 12 months in the president position</p>
+date:   2017-11-11 00:00:00
 ---
 
 Hey, I’m Jonathon Belotti, third-year Software Engineering student and current President of the CSIT Society. The following statement serves as the “written report” made requisite in the club’s constitution. I will go over what were my own personal goals in my role, whether I have achieved those goals, and what I recommend for the role of president and the club generally going forward.
