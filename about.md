@@ -12,4 +12,4 @@ If you would like to join the club, or otherwise become involved, please don't h
 
 ## Contact Us
 
-**Email:** [jono@csitsociety.club](mailto:jono@rmitprogramming.club)
+**Email:** [{{ site.email }}](mailto:{{ site.email }})
