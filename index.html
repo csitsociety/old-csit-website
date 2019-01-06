@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign sorted_posts = paginator.posts | sort: "date" | sort: "pinned", "last" %}
+{% assign sorted_posts = paginator.posts | sort: "date", "last" | sort: "pinned", "last" %}
 
 {%- if site.posts.size > 0 -%}
 <div class="posts">
