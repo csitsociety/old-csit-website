@@ -12,4 +12,4 @@ If you would like to join the club, or otherwise become involved, please don't h
 
 ## Contact Us
 
-**Email:** [{{ site.footer_links.email }}](mailto:{{ site.footer_links.email }})
+**Email:** [{{ site.footer-links.email }}](mailto:{{ site.footer-links.email }})
