@@ -17,17 +17,19 @@ description: RMIT's CSIT Society
 footer-links:
   dribbble:
   email: csit.society@rmit.edu.au
-  facebook: /groups/rmitcsitsociety/
+  facebook: groups/rmitcsitsociety/
   flickr:
   github: RMIT-CSIT
   instagram:
   linkedin: rmit-csit-society
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: true
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+
+rusu_link: https://rusu.rmit.edu.au/clubs/CSIT
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
