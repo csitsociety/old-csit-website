@@ -1,6 +1,7 @@
 layout: post
 title: Semester One Meet and Greet
 author: Jonathon Belotti
+date:   2017-03-10
 ---
 
 Recaping our first social event of the year.

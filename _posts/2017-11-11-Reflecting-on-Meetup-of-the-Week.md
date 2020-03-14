@@ -3,7 +3,7 @@ layout: post
 title: Reflecting on Meetup of the Week
 author: Michael Swiatkiwsky
 excerpt: <p>My motivation for running Meetup of the week has been to encourage students to join me in pushing beyond the bare minimum required to get a degree, and to explore the myriad of career building opportunities available right at our doorstep.</p>
-
+date:   2017-11-11 00:00:01
 ---
 ### What is a Meetup? 
 A Meetup is a social event with the purpose bringing together strangers who share a common interest. There are all kinds of Meetups available through [Meetup.com](meetup.com), from rock climbing sessions, to robot building workshops, to even salsa dancing classes. Unbeknownst to most, there are also heaps of free programming, software, and design related Meetups as well, right in the heart of the CBD! This means they’re only a 10-15 minute walk from RMIT.

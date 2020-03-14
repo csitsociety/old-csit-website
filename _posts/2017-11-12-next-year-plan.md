@@ -2,6 +2,7 @@
 layout: post
 title: Next Year Plan
 author: Jonathon Belotti
+date:   2017-11-12
 ---
 
 6:00 - 6:40 -> Mingling + Pizza
